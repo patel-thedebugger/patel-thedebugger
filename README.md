@@ -14,9 +14,9 @@ I am a passionate student currently pursuing my BTech in Computer Science and De
 
 ## 🔧 My Expertise
 
-- **Languages:** C++, Java
+- **Languages:** C/C++, Python
 - **Core Skills:** Data Structures & Algorithms (DSA), DBMS, ESP8266
-- **Interests:** Data Science, Problem Solving, Cyber Security, Image Processing
+- **Interests:** Data Science, Problem Solving, Cyber Security, Image Processing,Embedded System
 
 ---
 
